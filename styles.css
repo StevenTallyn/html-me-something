@@ -1,0 +1,19 @@
+p{
+    margin: 50px;
+
+}
+
+h1{
+    text-align: center;
+    background-color: green;
+}
+#intro{
+    text-align:center;
+    font-family: 'Times New Roman';
+}
+.ingredients{
+    background-color: greenyellow;
+}
+.instructions{
+    background-color: greenyellow;
+}
